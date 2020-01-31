@@ -1,5 +1,8 @@
+// Funk & Rap Artists
 const jumpstopRecords = [];
+// Country & Bluegrass Artists
 const chattenRecords = [];
+// Pop Artists
 const polarRecords = [];
 
 const createArtist = (name, genre, age) => {
@@ -22,3 +25,4 @@ const loyonceBranis = createArtist("Loyoncé Branis", "Rap", 27);
 jumpstopRecords.push(dreFunkz, dustaGrimes, loyonceBranis);
 chattenRecords.push(bruceAtikins, bartholomewDanielson, avileeDallas);
 polarRecords.push(jensenBrown, austinKinkaid);
+
